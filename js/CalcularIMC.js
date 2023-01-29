@@ -67,3 +67,4 @@ function validarAltura(altura){
 }
 
 ///mas
+//tengo
